@@ -35,14 +35,6 @@ A **Skin Changer** is a tool that allows you to **change the appearance of your 
 
 ---
 
-## 🖥️ **How to Install and Use the Skin Changer**:
-1. **Download** the reliable software from a trusted source 🔗.
-2. **Disable antivirus** before installation (to avoid false detections) 🛡️.
-3. **Launch** the software and follow the setup instructions ⚙️.
-4. Choose a skin for your champion and **enjoy your game**! 🏆
-
----
-
 ## 🎨 **Top 3 Popular Skins to Change**:
 1. 🦸‍♂️ **Elementalist Lux** — 🌪️ A skin that changes elements and creates stunning visual effects!
 2. 👹 **Spirit Blossom Thresh** — A mystical and captivating skin with a ghostly aura 👻.
